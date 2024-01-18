@@ -18,7 +18,6 @@ len_letters = len(letters)-1
 len_symbols = len(symbols)-1
 len_numbers = len(numbers)-1
 
-
 result1 = []
 
 #Gets the letters
